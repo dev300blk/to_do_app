@@ -1,0 +1,40 @@
+body{
+    display: absolute;
+    
+    background-color: grey;
+
+}
+
+.container{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto ;
+    width: 500px;
+    height: 700px;
+    border-radius: 30px;
+    background-color: blanchedalmond;
+}
+
+.input{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto ;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    background-color:#def560 ;
+    border-radius: 30px;
+}
+
+
+.done{
+    margin-left: 8px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+
+
+
+
+
